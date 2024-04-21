@@ -17,19 +17,22 @@
 ### Below are the snapshots of website
 
 ### Navbar
-![image](https://github.com/M74-dot/microproject-2/assets/82174253/373ae2d5-7e86-4fa9-ad86-7ce75be9322c)
+![image](https://github.com/M74-dot/micro-project-2/assets/82174253/34c2650e-ec5d-472a-97ae-278c5bdab5e4)
 
 
 ### Home Section
-![image](https://github.com/M74-dot/microproject-2/assets/82174253/452cc820-800e-4d37-8ce5-0bca37202668)
+![image](https://github.com/M74-dot/micro-project-2/assets/82174253/68e7e768-2d9a-4a0e-b4cf-1905d8178104)
+
 
 
 ### Contact Us Section
-![image](https://github.com/M74-dot/microproject-2/assets/82174253/2bc94709-40af-464c-b0f4-1683e0260c4e)
+![image](https://github.com/M74-dot/micro-project-2/assets/82174253/52e1023c-1288-4905-b84e-9b98e3b9f0eb)
+
 
 
 ### Table Section
-![image](https://github.com/M74-dot/microproject-2/assets/82174253/a00fdb60-e518-401a-a242-bdeca74b931b)
+![image](https://github.com/M74-dot/micro-project-2/assets/82174253/99b47b76-0a89-4793-b112-c2a3ea667d48)
+
 
 
 
